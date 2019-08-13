@@ -1,2 +1,6 @@
+
+Print('Hello world!')
+Print('Hi my dear friend;')
+Print('Glad to see u;')
 Print('Hello world!;')
 Print('FU:')
