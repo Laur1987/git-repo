@@ -1,4 +1,6 @@
+
 Print('Hello world!')
-Print('FU')
-Print('Hi my dear friend')
-Print('Glad to see u')
+Print('Hi my dear friend;')
+Print('Glad to see u;')
+Print('Hello world!;')
+Print('FU:')
